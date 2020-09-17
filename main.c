@@ -32,7 +32,7 @@ char *res = readline("Enter an int: ");
 int t;
 n = atoi (res); 
 t = sum_n(n);
-printf("sum is %i \n",t);
+printf("sum is %i.\n",t);
 
 char *a = readline("Enter a string: ");
 
